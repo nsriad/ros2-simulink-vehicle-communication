@@ -72,6 +72,8 @@ velocity -> discrete-time integrator -> position x
 
 This makes the position physically meaningful, instead of using an unrelated ramp signal.
 
+![Main Simulink Model Simulation](images/simulink_ros2.mp4)
+
 ## Main Model Screenshot
 
 ![Main Simulink Model](images/main_model.png)
