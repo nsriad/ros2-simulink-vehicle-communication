@@ -74,27 +74,15 @@ This makes the position physically meaningful, instead of using an unrelated ram
 
 ## Main Model Screenshot
 
-Add the main model screenshot here:
-
-```markdown
 ![Main Simulink Model](images/main_model.png)
-```
 
-## Vehicle 1 Subsystem Screenshot
+### Vehicle 1 Subsystem Screenshot
 
-Add the Vehicle 1 subsystem screenshot here:
-
-```markdown
 ![Vehicle 1 Subsystem](images/vehicle1_subsystem.png)
-```
 
-## Vehicle 2 Subsystem Screenshot
+### Vehicle 2 Subsystem Screenshot
 
-Add the Vehicle 2 subsystem screenshot here:
-
-```markdown
 ![Vehicle 2 Subsystem](images/vehicle2_subsystem.png)
-```
 
 ## How to Run
 
