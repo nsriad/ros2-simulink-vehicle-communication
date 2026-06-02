@@ -1,8 +1,6 @@
 # Simulink ROS2 Two-Vehicle Publish-Subscribe Scenario
 
-This project implements a simple two-vehicle communication scenario using MATLAB/Simulink and ROS2.
-
-The model contains two vehicles. Each vehicle publishes its own velocity and 2D position, and subscribes to the other vehicle's velocity and position through ROS2 topics.
+This project implements a simple two-vehicle communication scenario using MATLAB/Simulink and ROS2. The model contains two vehicles. Each vehicle publishes its own velocity and 2D position, and subscribes to the other vehicle's velocity and position through ROS2 topics.
 
 ## Files
 
@@ -71,6 +69,8 @@ velocity -> discrete-time integrator -> position x
 ```
 
 This makes the position physically meaningful, instead of using an unrelated ramp signal.
+
+## Demo Video
 
 ![Main Simulink Model Simulation](images/simulink_ros2.mp4)
 
